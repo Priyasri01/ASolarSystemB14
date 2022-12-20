@@ -11,6 +11,6 @@ public class Main {
        FeatureSun xeon = new FeatureSun();
         xeon.heat ="123552";
         xeon.size=12548;
-        xeon.temp="154897";
+        xeon.temp=154897;
     }
 }
